@@ -12,16 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pomax/snek-1.git"
+    "url": "git+https://github.com/AskeFC/snek.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pomax/snek-1/issues"
+    "url": "https://github.com/AskeFC/snek/issues"
   },
-  "homepage": "https://github.com/Pomax/snek-1#readme",
+  "homepage": "https://github.com/AskeFC/snek#readme",
   "dependencies": {
-    "express": "^4.14.0",
-    "socket.io": "^1.4.8"
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
   }
 }
