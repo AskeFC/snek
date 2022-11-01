@@ -27,7 +27,7 @@ If that sounds a little complicated: don't worry! The important part is this:
 
 ## 1. Getting set up
 
-In order to get set up, you will need to run through a few steps that involve getting the code and running it on your system. Let's begin with the information that everything Snek-related can be found on [https://github.com/flukeout/snek](https://github.com/flukeout/snek), and then cover what you'll need to do in order to get set up, yourself.
+In order to get set up, you will need to run through a few steps that involve getting the code and running it on your system. Let's begin with the information that everything Snek-related can be found on [https://github.com/flukeout/snek](https://github.com/AskeFC/snek), and then cover what you'll need to do in order to get set up, yourself.
 
 ### 1.1. Prerequisites
 
@@ -45,14 +45,14 @@ There are two ways to get the code. The easy way, and the hard way, so let's loo
 
 #### 1.2.1. Download the code as a zip file
 
-Click on this link: [https://github.com/flukeout/snek/archive/gh-pages.zip](https://github.com/flukeout/snek/archive/gh-pages.zip), which will download a zipped archive onto your computer. You can unpack this file which should create a directory/folder called `snek-gh-pages` with all the files you need inside of it. You can delete the `gh-pages.zip` file after unpacking it.
+Click on this link: [https://github.com/AskeFC/snek/archive/main.zip](https://github.com/AskeFC/snek/archive/main.zip), which will download a zipped archive onto your computer. You can unpack this file which should create a directory/folder called `snek-gh-pages` with all the files you need inside of it. You can delete the `gh-pages.zip` file after unpacking it.
 
 #### 1.2.2. "Cloning" the code
 
-If you are familiar with [git](https://git-scm.com) you can also clone the code repository yourself. If you use the git desktop client, you can click here to make the desktop client do everything you need: [github-windows://openRepo/https://github.com/flukeout/snek](github-windows://openRepo/https://github.com/flukeout/snek), or if you prefer to work with the terminal, navigate to whatever directory you like to use as "root" for code projects, and then run the git clone command:   
+If you are familiar with [git](https://git-scm.com) you can also clone the code repository yourself. If you use the git desktop client, you can click here to make the desktop client do everything you need: [github-windows://openRepo/https://github.com/AskeFC/snek](github-windows://openRepo/https://github.com/AskeFC/snek), or if you prefer to work with the terminal, navigate to whatever directory you like to use as "root" for code projects, and then run the git clone command:   
 
 ```
-$> git clone https://github.com/flukeout/snek
+$> git clone https://github.com/AskeFC/snek
 ```
 
 You are now ready to move on to the next step.
@@ -63,11 +63,11 @@ Whichever of the download approaches you used, you will need to do the next bit 
 
 #### 1.3.1. Unix, Linux, OSX
 
-If you use unix, linux, or OSX, open a terminal and `cd ` your way to the directory where the code for Snek can be found. If you used the download option, this will be that `snek-gh-pages` directory, and if you used `git` it will just be `snek`.
+If you use unix, linux, or OSX, open a terminal and `cd ` your way to the directory where the code for Snek can be found. If you used the download option, this will be that `main` directory, and if you used `git` it will just be `snek`.
 
 #### 1.3.2. Windows
 
-If you use Windows, open a command prompt (windows menu, then just type "cmd" and run that) and then `cd ` your way to the folder where the code for Snek can be found. If you used the download option, this will be that `snek-gh-pages` folder, and if you used `git` it will just be `snek`.
+If you use Windows, open a command prompt (windows menu, then just type "cmd" and run that) and then `cd ` your way to the folder where the code for Snek can be found. If you used the download option, this will be that `main` folder, and if you used `git` it will just be `snek`.
 
 #### 1.3.3. And then for everybody:
 
