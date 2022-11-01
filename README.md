@@ -4,7 +4,7 @@ Snek is a web-based, multiplayer version of Snake, using a JavaScript server (ru
 
 If that sounds a little complicated: don't worry! The important part is this:
 
-![snakes on a plane!](https://raw.githubusercontent.com/flukeout/snek/gh-pages/client/images/favicon.png)
+![snakes on a plane!](https://raw.githubusercontent.com/AskeFC/snek/main/client/images/favicon.png)
  
 
 ## Table of Contents
@@ -27,7 +27,7 @@ If that sounds a little complicated: don't worry! The important part is this:
 
 ## 1. Getting set up
 
-In order to get set up, you will need to run through a few steps that involve getting the code and running it on your system. Let's begin with the information that everything Snek-related can be found on [https://github.com/flukeout/snek](https://github.com/AskeFC/snek), and then cover what you'll need to do in order to get set up, yourself.
+In order to get set up, you will need to run through a few steps that involve getting the code and running it on your system. Let's begin with the information that everything Snek-related can be found on [https://github.com/AskeFC/snek](https://github.com/AskeFC/snek), and then cover what you'll need to do in order to get set up, yourself.
 
 ### 1.1. Prerequisites
 
