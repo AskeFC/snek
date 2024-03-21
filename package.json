@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/AskeFC/snek#readme",
   "dependencies": {
-    "express": "^4.18.3",
+    "express": "^4.19.0",
     "socket.io": "^4.7.5",
     "socket.io-client": "^4.7.5"
   }
